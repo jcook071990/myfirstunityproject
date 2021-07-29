@@ -1,0 +1,2940 @@
+fileFormatVersion: 2
+guid: 4feea91428f9149898a38acff8b25484
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2314547847510165605
+    second: Shao_Kahn_Sprite2_0
+  - first:
+      213: -6403091912087109556
+    second: Shao_Kahn_Sprite2_1
+  - first:
+      213: 4030299758273040627
+    second: Shao_Kahn_Sprite2_2
+  - first:
+      213: -3202653510819955188
+    second: Shao_Kahn_Sprite2_3
+  - first:
+      213: 1558462586567613370
+    second: Shao_Kahn_Sprite2_4
+  - first:
+      213: 6372241010957281504
+    second: Shao_Kahn_Sprite2_5
+  - first:
+      213: 623900654017587296
+    second: Shao_Kahn_Sprite2_6
+  - first:
+      213: 4491083296167098953
+    second: Shao_Kahn_Sprite2_7
+  - first:
+      213: -2403789129738169927
+    second: Shao_Kahn_Sprite2_8
+  - first:
+      213: 3472828495078544951
+    second: Shao_Kahn_Sprite2_9
+  - first:
+      213: 7571078019669578424
+    second: Shao_Kahn_Sprite2_10
+  - first:
+      213: -2592526682132267577
+    second: Shao_Kahn_Sprite2_11
+  - first:
+      213: 4467902588530639161
+    second: Shao_Kahn_Sprite2_12
+  - first:
+      213: 4470392529285226514
+    second: Shao_Kahn_Sprite2_13
+  - first:
+      213: -7075035259729440543
+    second: Shao_Kahn_Sprite2_14
+  - first:
+      213: 7657446496167549935
+    second: Shao_Kahn_Sprite2_15
+  - first:
+      213: 1420474409358261957
+    second: Shao_Kahn_Sprite2_16
+  - first:
+      213: -7507796952520816996
+    second: Shao_Kahn_Sprite2_17
+  - first:
+      213: 61493612424341335
+    second: Shao_Kahn_Sprite2_18
+  - first:
+      213: 1281328119413310168
+    second: Shao_Kahn_Sprite2_19
+  - first:
+      213: 1333963231017085638
+    second: Shao_Kahn_Sprite2_20
+  - first:
+      213: 5964310520249516032
+    second: Shao_Kahn_Sprite2_21
+  - first:
+      213: 2410566107782026548
+    second: Shao_Kahn_Sprite2_22
+  - first:
+      213: 2494423563602472942
+    second: Shao_Kahn_Sprite2_23
+  - first:
+      213: 6273144701914908794
+    second: Shao_Kahn_Sprite2_24
+  - first:
+      213: -7124876165169625004
+    second: Shao_Kahn_Sprite2_25
+  - first:
+      213: 1575719049696634987
+    second: Shao_Kahn_Sprite2_26
+  - first:
+      213: 7306695296846154043
+    second: Shao_Kahn_Sprite2_27
+  - first:
+      213: -1262793569017199535
+    second: Shao_Kahn_Sprite2_28
+  - first:
+      213: -4097220405637390559
+    second: Shao_Kahn_Sprite2_29
+  - first:
+      213: 6591453792601468739
+    second: Shao_Kahn_Sprite2_30
+  - first:
+      213: -2393463481295128256
+    second: Shao_Kahn_Sprite2_31
+  - first:
+      213: 2066847764920770269
+    second: Shao_Kahn_Sprite2_32
+  - first:
+      213: -2587012060995916449
+    second: Shao_Kahn_Sprite2_33
+  - first:
+      213: -1079418028153672924
+    second: Shao_Kahn_Sprite2_34
+  - first:
+      213: 2146407466807966167
+    second: Shao_Kahn_Sprite2_35
+  - first:
+      213: -8170664788589737508
+    second: Shao_Kahn_Sprite2_36
+  - first:
+      213: -973171912106698962
+    second: Shao_Kahn_Sprite2_37
+  - first:
+      213: 2542821715982697892
+    second: Shao_Kahn_Sprite2_38
+  - first:
+      213: -1002950005111386765
+    second: Shao_Kahn_Sprite2_39
+  - first:
+      213: 1272859582825706640
+    second: Shao_Kahn_Sprite2_40
+  - first:
+      213: 7029792916678425498
+    second: Shao_Kahn_Sprite2_41
+  - first:
+      213: 4190296974518349273
+    second: Shao_Kahn_Sprite2_42
+  - first:
+      213: 4568966342642159870
+    second: Shao_Kahn_Sprite2_43
+  - first:
+      213: 270672859407148561
+    second: Shao_Kahn_Sprite2_44
+  - first:
+      213: -1809119157467397788
+    second: Shao_Kahn_Sprite2_45
+  - first:
+      213: -6091852093573042463
+    second: Shao_Kahn_Sprite2_46
+  - first:
+      213: -4158823810479756737
+    second: Shao_Kahn_Sprite2_47
+  - first:
+      213: 1728112217823338408
+    second: Shao_Kahn_Sprite2_48
+  - first:
+      213: -8614166459316752001
+    second: Shao_Kahn_Sprite2_49
+  - first:
+      213: 4552141133558229601
+    second: Shao_Kahn_Sprite2_50
+  - first:
+      213: 6846187695049188373
+    second: Shao_Kahn_Sprite2_51
+  - first:
+      213: -1621058630580791351
+    second: Shao_Kahn_Sprite2_52
+  - first:
+      213: 5795109271246259420
+    second: Shao_Kahn_Sprite2_53
+  - first:
+      213: -938835509468824495
+    second: Shao_Kahn_Sprite2_54
+  - first:
+      213: -1888032987609308204
+    second: Shao_Kahn_Sprite2_55
+  - first:
+      213: 7833750800744906219
+    second: Shao_Kahn_Sprite2_56
+  - first:
+      213: -1121381097556227651
+    second: Shao_Kahn_Sprite2_57
+  - first:
+      213: 7819315130376805600
+    second: Shao_Kahn_Sprite2_58
+  - first:
+      213: 7147365834772164499
+    second: Shao_Kahn_Sprite2_59
+  - first:
+      213: 2617895056661027779
+    second: Shao_Kahn_Sprite2_60
+  - first:
+      213: 3466278574718631065
+    second: Shao_Kahn_Sprite2_61
+  - first:
+      213: -7121157360584500374
+    second: Shao_Kahn_Sprite2_62
+  - first:
+      213: 5960231108226164518
+    second: Shao_Kahn_Sprite2_63
+  - first:
+      213: 1009846456329258214
+    second: Shao_Kahn_Sprite2_64
+  - first:
+      213: 1445590648138925868
+    second: Shao_Kahn_Sprite2_65
+  - first:
+      213: 7488916870247390323
+    second: Shao_Kahn_Sprite2_66
+  - first:
+      213: -3332996933378046086
+    second: Shao_Kahn_Sprite2_67
+  - first:
+      213: -8707557559449692567
+    second: Shao_Kahn_Sprite2_68
+  - first:
+      213: -2184749022994200546
+    second: Shao_Kahn_Sprite2_69
+  - first:
+      213: 7101859854644555937
+    second: Shao_Kahn_Sprite2_70
+  - first:
+      213: 6169055194845260348
+    second: Shao_Kahn_Sprite2_71
+  - first:
+      213: 4321550554009683038
+    second: Shao_Kahn_Sprite2_72
+  - first:
+      213: 3859900858307371811
+    second: Shao_Kahn_Sprite2_73
+  - first:
+      213: -6855674326649705484
+    second: Shao_Kahn_Sprite2_74
+  - first:
+      213: -1471220249069359897
+    second: Shao_Kahn_Sprite2_75
+  - first:
+      213: 723992919614100413
+    second: Shao_Kahn_Sprite2_76
+  - first:
+      213: -454014795242476174
+    second: Shao_Kahn_Sprite2_77
+  - first:
+      213: -8116758189074514677
+    second: Shao_Kahn_Sprite2_78
+  - first:
+      213: -6839417497291470200
+    second: Shao_Kahn_Sprite2_79
+  - first:
+      213: 4917912682537735645
+    second: Shao_Kahn_Sprite2_80
+  - first:
+      213: -70718494578298546
+    second: Shao_Kahn_Sprite2_81
+  - first:
+      213: 6219666545370250391
+    second: Shao_Kahn_Sprite2_82
+  - first:
+      213: -2725982339198976364
+    second: Shao_Kahn_Sprite2_83
+  - first:
+      213: 9041747788239477666
+    second: Shao_Kahn_Sprite2_84
+  - first:
+      213: -4924273839844729252
+    second: Shao_Kahn_Sprite2_85
+  - first:
+      213: -8463222483605746009
+    second: Shao_Kahn_Sprite2_86
+  - first:
+      213: -2834561877630140117
+    second: Shao_Kahn_Sprite2_87
+  - first:
+      213: 6676068301618448879
+    second: Shao_Kahn_Sprite2_88
+  - first:
+      213: 9197501566505233474
+    second: Shao_Kahn_Sprite2_89
+  - first:
+      213: -1556327033396796446
+    second: Shao_Kahn_Sprite2_90
+  - first:
+      213: 4233354548731058421
+    second: Shao_Kahn_Sprite2_91
+  - first:
+      213: 1264787675170126533
+    second: Shao_Kahn_Sprite2_92
+  - first:
+      213: -4076472578415529511
+    second: Shao_Kahn_Sprite2_93
+  - first:
+      213: 1820005533830570806
+    second: Shao_Kahn_Sprite2_94
+  - first:
+      213: 6275787824586261734
+    second: Shao_Kahn_Sprite2_95
+  - first:
+      213: 1883188455413341181
+    second: Shao_Kahn_Sprite2_96
+  - first:
+      213: 7901357698797560544
+    second: Shao_Kahn_Sprite2_97
+  - first:
+      213: 5896010045323896704
+    second: Shao_Kahn_Sprite2_98
+  - first:
+      213: 2582062770692805669
+    second: Shao_Kahn_Sprite2_99
+  - first:
+      213: 276138575675717971
+    second: Shao_Kahn_Sprite2_100
+  - first:
+      213: -7081755876197349476
+    second: Shao_Kahn_Sprite2_101
+  - first:
+      213: -5017837688463843412
+    second: Shao_Kahn_Sprite2_102
+  - first:
+      213: -714353094681750347
+    second: Shao_Kahn_Sprite2_103
+  - first:
+      213: -5014978889605917746
+    second: Shao_Kahn_Sprite2_104
+  - first:
+      213: 8439713549682125956
+    second: Shao_Kahn_Sprite2_105
+  - first:
+      213: 3314356539435898293
+    second: Shao_Kahn_Sprite2_106
+  - first:
+      213: 6662040924795367426
+    second: Shao_Kahn_Sprite2_107
+  - first:
+      213: -3900725859010749405
+    second: Shao_Kahn_Sprite2_108
+  - first:
+      213: 733645931594253510
+    second: Shao_Kahn_Sprite2_109
+  - first:
+      213: 3438038929967104970
+    second: Shao_Kahn_Sprite2_110
+  - first:
+      213: 1085812851735759298
+    second: Shao_Kahn_Sprite2_111
+  - first:
+      213: -3021736339069751922
+    second: Shao_Kahn_Sprite2_112
+  - first:
+      213: -6970929584223926427
+    second: Shao_Kahn_Sprite2_113
+  - first:
+      213: 4222021879631013716
+    second: Shao_Kahn_Sprite2_114
+  - first:
+      213: -6680187732855865601
+    second: Shao_Kahn_Sprite2_115
+  - first:
+      213: 924854300446537211
+    second: Shao_Kahn_Sprite2_116
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 880
+        width: 46
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97f285eef211efd0800000000000000
+      internalID: -2314547847510165605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 880
+        width: 56
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c400fdbb4d5a327a0800000000000000
+      internalID: -6403091912087109556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 880
+        width: 61
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f01536d6408ee730800000000000000
+      internalID: 4030299758273040627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 880
+        width: 62
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e3beca993ed83d0800000000000000
+      internalID: -3202653510819955188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_4
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 880
+        width: 51
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb59142775c0a510800000000000000
+      internalID: 1558462586567613370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_5
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 880
+        width: 55
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8e849107fbe6850800000000000000
+      internalID: 6372241010957281504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_6
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 880
+        width: 54
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0682ad9d65a88a800800000000000000
+      internalID: 623900654017587296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_7
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 925
+        width: 199
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94afabc8678835e30800000000000000
+      internalID: 4491083296167098953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_8
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 911
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1d207b58604aed0800000000000000
+      internalID: -2403789129738169927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_9
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 909
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736d20fcd17f13030800000000000000
+      internalID: 3472828495078544951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_10
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 909
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b25c29785fd11960800000000000000
+      internalID: 7571078019669578424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_11
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 911
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdb8c8e7be750cd0800000000000000
+      internalID: -2592526682132267577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_12
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 911
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931ca687bbd210e30800000000000000
+      internalID: 4467902588530639161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_13
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 911
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2102b9af1560a0e30800000000000000
+      internalID: 4470392529285226514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_14
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 909
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0967a9aec60dd90800000000000000
+      internalID: -7075035259729440543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_15
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 911
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb50a27407b44a60800000000000000
+      internalID: 7657446496167549935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_16
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 911
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cef45603f986b310800000000000000
+      internalID: 1420474409358261957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_17
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 911
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c968c3f1372fec790800000000000000
+      internalID: -7507796952520816996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_18
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 911
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757228c5d187ad000800000000000000
+      internalID: 61493612424341335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_19
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 911
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d28956c22138c110800000000000000
+      internalID: 1281328119413310168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_20
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 911
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6caa430bd70338210800000000000000
+      internalID: 1333963231017085638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_21
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 911
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000099161dc75c250800000000000000
+      internalID: 5964310520249516032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_22
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 911
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43591f17a1d047120800000000000000
+      internalID: 2410566107782026548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_23
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 911
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefa3ebd309fd9220800000000000000
+      internalID: 2494423563602472942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_24
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 911
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78034eaedfae0750800000000000000
+      internalID: 6273144701914908794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_25
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 911
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458ca6280ea5f1d90800000000000000
+      internalID: -7124876165169625004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_26
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 755
+        width: 40
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68ebfe80241ed510800000000000000
+      internalID: 1575719049696634987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_27
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 755
+        width: 42
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b394882f8a8966560800000000000000
+      internalID: 7306695296846154043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_28
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 755
+        width: 44
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154051680f7a97ee0800000000000000
+      internalID: -1262793569017199535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_29
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 755
+        width: 44
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f5083cfbfb327c0800000000000000
+      internalID: -4097220405637390559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 755
+        width: 42
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f69652d4c897b50800000000000000
+      internalID: 6591453792601468739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_31
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 755
+        width: 38
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049b88615a5b8ced0800000000000000
+      internalID: -2393463481295128256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_32
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 755
+        width: 40
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde99e0771beeac10800000000000000
+      internalID: 2066847764920770269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_33
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 755
+        width: 40
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5defa2bc36191cd0800000000000000
+      internalID: -2587012060995916449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_34
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 755
+        width: 39
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b6fbbb5032501f0800000000000000
+      internalID: -1079418028153672924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_35
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 755
+        width: 38
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9b55a083299cd10800000000000000
+      internalID: 2146407466807966167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 627
+        width: 39
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd901513aa7fb9e80800000000000000
+      internalID: -8170664788589737508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_37
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 627
+        width: 41
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e271e715d499e72f0800000000000000
+      internalID: -973171912106698962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_38
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 627
+        width: 39
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a54c44d0eae94320800000000000000
+      internalID: 2542821715982697892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_39
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 627
+        width: 39
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d0cd1c84ec412f0800000000000000
+      internalID: -1002950005111386765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_40
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 627
+        width: 39
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0943743fb0b1aa110800000000000000
+      internalID: 1272859582825706640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_41
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 627
+        width: 39
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bbc2b8967de8160800000000000000
+      internalID: 7029792916678425498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_42
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 627
+        width: 39
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd6f8da5ece62a30800000000000000
+      internalID: 4190296974518349273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_43
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 627
+        width: 44
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0d6e36eaa386f30800000000000000
+      internalID: 4568966342642159870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_44
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 499
+        width: 44
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1166d43188f91c300800000000000000
+      internalID: 270672859407148561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_45
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 499
+        width: 45
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4614dce16b7b4e6e0800000000000000
+      internalID: -1809119157467397788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_46
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 499
+        width: 73
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eeeb520cc4657ba0800000000000000
+      internalID: -6091852093573042463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_47
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 499
+        width: 59
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3aeaec57c3e846c0800000000000000
+      internalID: -4158823810479756737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_48
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 499
+        width: 33
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af5f5bf7ec7bf710800000000000000
+      internalID: 1728112217823338408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_49
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 499
+        width: 49
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71375cbe35547880800000000000000
+      internalID: -8614166459316752001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_50
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 499
+        width: 71
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16aae212e347c2f30800000000000000
+      internalID: 4552141133558229601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_51
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 499
+        width: 49
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514ae0d9f6b820f50800000000000000
+      internalID: 6846187695049188373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_52
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 499
+        width: 51
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c79624a3c7d089e0800000000000000
+      internalID: -1621058630580791351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_53
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 499
+        width: 60
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4c43bad2d5c6050800000000000000
+      internalID: 5795109271246259420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_54
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 499
+        width: 53
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c769b041698f2f0800000000000000
+      internalID: -938835509468824495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_55
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 394
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3e351400c5cc5e0800000000000000
+      internalID: -1888032987609308204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_56
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 394
+        width: 51
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedf45929d217bc60800000000000000
+      internalID: 7833750800744906219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_57
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 394
+        width: 71
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9c25645dd0070f0800000000000000
+      internalID: -1121381097556227651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_58
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 394
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec52fcbea9c38c60800000000000000
+      internalID: 7819315130376805600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_59
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 394
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fab5dbb5b803360800000000000000
+      internalID: 7147365834772164499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_60
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 394
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb188f0fa1a45420800000000000000
+      internalID: 2617895056661027779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_61
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 394
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cb6a2aff1ba1030800000000000000
+      internalID: 3466278574718631065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_62
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 396
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bd3bc2c119c2d90800000000000000
+      internalID: -7121157360584500374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_63
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 394
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627ad014d9ef6b250800000000000000
+      internalID: 5960231108226164518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_64
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 394
+        width: 95
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4413b6002b30e00800000000000000
+      internalID: 1009846456329258214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_65
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 395
+        width: 78
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2782f01905cf0410800000000000000
+      internalID: 1445590648138925868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_66
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 395
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c968b273afde760800000000000000
+      internalID: 7488916870247390323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_67
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 395
+        width: 22
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a770984b2f0deb1d0800000000000000
+      internalID: -3332996933378046086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_68
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 395
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966dbb7c88a882780800000000000000
+      internalID: -8707557559449692567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_69
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 425
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e188c01c6563ea1e0800000000000000
+      internalID: -2184749022994200546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_70
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 395
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a032b819efde8260800000000000000
+      internalID: 7101859854644555937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_71
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 401
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3aa780c303ec9550800000000000000
+      internalID: 6169055194845260348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_72
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 270
+        width: 47
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54c3a2155b39fb30800000000000000
+      internalID: 4321550554009683038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_73
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 270
+        width: 76
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323e2a7416f119530800000000000000
+      internalID: 3859900858307371811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_74
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 270
+        width: 47
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb6748d580cbd0a0800000000000000
+      internalID: -6855674326649705484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_75
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 270
+        width: 76
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecebd37afc259be0800000000000000
+      internalID: -1471220249069359897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_76
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 270
+        width: 37
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db31f7979b32c0a00800000000000000
+      internalID: 723992919614100413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_77
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 270
+        width: 37
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27deccef2f303b9f0800000000000000
+      internalID: -454014795242476174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_78
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 270
+        width: 42
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d78747e6b7b5f80800000000000000
+      internalID: -8116758189074514677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_79
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 270
+        width: 51
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ac953e5028511a0800000000000000
+      internalID: -6839417497291470200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_80
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 270
+        width: 41
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5dc0f478fef3440800000000000000
+      internalID: 4917912682537735645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_81
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 270
+        width: 33
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e413c9367e1c40ff0800000000000000
+      internalID: -70718494578298546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_82
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 270
+        width: 30
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cbc2215c1b05650800000000000000
+      internalID: 6219666545370250391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_83
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 270
+        width: 34
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e7e00618d5b2ad0800000000000000
+      internalID: -2725982339198976364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_84
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 270
+        width: 40
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab10ba45bdba7d70800000000000000
+      internalID: 9041747788239477666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_85
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 146
+        width: 62
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e5e47580779abb0800000000000000
+      internalID: -4924273839844729252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_86
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 146
+        width: 79
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae8491cdf79c8a80800000000000000
+      internalID: -8463222483605746009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_87
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 146
+        width: 77
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21cdfd8dfc99a8d0800000000000000
+      internalID: -2834561877630140117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_88
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 146
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9863ebfb826ac50800000000000000
+      internalID: 6676068301618448879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_89
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 146
+        width: 88
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ca4acb1f614af70800000000000000
+      internalID: 9197501566505233474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_90
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 146
+        width: 93
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3eb041fc0d66ae0800000000000000
+      internalID: -1556327033396796446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_91
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 146
+        width: 73
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f816656885efba30800000000000000
+      internalID: 4233354548731058421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_92
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 146
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cabece70bd6d8110800000000000000
+      internalID: 1264787675170126533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_93
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 146
+        width: 55
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1fbeab9c57d67c0800000000000000
+      internalID: -4076472578415529511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_94
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 146
+        width: 45
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6336735e365f14910800000000000000
+      internalID: 1820005533830570806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_95
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 10
+        width: 40
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e48f22a6c3181750800000000000000
+      internalID: 6275787824586261734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_96
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 10
+        width: 54
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb57023ced622a10800000000000000
+      internalID: 1883188455413341181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_97
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 10
+        width: 54
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e26020c6f247ad60800000000000000
+      internalID: 7901357698797560544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_98
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 10
+        width: 54
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0876aa7d5e5d2d150800000000000000
+      internalID: 5896010045323896704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_99
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 10
+        width: 54
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524d7ead86455d320800000000000000
+      internalID: 2582062770692805669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_100
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 10
+        width: 54
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359feef429a05d300800000000000000
+      internalID: 276138575675717971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_101
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 10
+        width: 70
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97c8352d8c88bd90800000000000000
+      internalID: -7081755876197349476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_102
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 44
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf9b8e353f0d5ab0800000000000000
+      internalID: -5017837688463843412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_103
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 44
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b41b4b25ab1616f0800000000000000
+      internalID: -714353094681750347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_104
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 44
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3d4f83547376ab0800000000000000
+      internalID: -5014978889605917746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_105
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 44
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48caad602c2ef1570800000000000000
+      internalID: 8439713549682125956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_106
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 44
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5d11066b5fefd20800000000000000
+      internalID: 3314356539435898293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_107
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 44
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200fa819ce2547c50800000000000000
+      internalID: 6662040924795367426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_108
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 44
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cdb778f76ddd9c0800000000000000
+      internalID: -3900725859010749405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_109
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 10
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c40697761f6e2a00800000000000000
+      internalID: 733645931594253510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_110
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 10
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac347a8f03e56bf20800000000000000
+      internalID: 3438038929967104970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_111
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 10
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c983482905911f00800000000000000
+      internalID: 1085812851735759298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_112
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 10
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8dabd83fc2a016d0800000000000000
+      internalID: -3021736339069751922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_113
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 10
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567421a0a78424f90800000000000000
+      internalID: -6970929584223926427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_114
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 10
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4576551c782a79a30800000000000000
+      internalID: 4222021879631013716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_115
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 10
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe343e66a43b43a0800000000000000
+      internalID: -6680187732855865601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shao_Kahn_Sprite2_116
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 10
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5bb1f061eb5dc00800000000000000
+      internalID: 924854300446537211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

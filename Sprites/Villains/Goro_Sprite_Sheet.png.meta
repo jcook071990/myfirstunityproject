@@ -1,0 +1,2724 @@
+fileFormatVersion: 2
+guid: cc0e563ba3d654cefbd445ec00022994
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7846343119338258154
+    second: Goro_Sprite_Sheet_0
+  - first:
+      213: -2973582533733312685
+    second: Goro_Sprite_Sheet_1
+  - first:
+      213: 1486011218965383448
+    second: Goro_Sprite_Sheet_2
+  - first:
+      213: 7258638241602342625
+    second: Goro_Sprite_Sheet_3
+  - first:
+      213: 8568731217958861093
+    second: Goro_Sprite_Sheet_4
+  - first:
+      213: -1478704154928852723
+    second: Goro_Sprite_Sheet_5
+  - first:
+      213: 449505544977413487
+    second: Goro_Sprite_Sheet_6
+  - first:
+      213: 3427193192089713449
+    second: Goro_Sprite_Sheet_7
+  - first:
+      213: 2774594922100358266
+    second: Goro_Sprite_Sheet_8
+  - first:
+      213: 4444741271064526442
+    second: Goro_Sprite_Sheet_9
+  - first:
+      213: 5386835315948574139
+    second: Goro_Sprite_Sheet_10
+  - first:
+      213: 3480327959306581000
+    second: Goro_Sprite_Sheet_11
+  - first:
+      213: -6544250516472588259
+    second: Goro_Sprite_Sheet_12
+  - first:
+      213: 4880889316138275908
+    second: Goro_Sprite_Sheet_13
+  - first:
+      213: 1066112180000584111
+    second: Goro_Sprite_Sheet_14
+  - first:
+      213: -3606477127366767042
+    second: Goro_Sprite_Sheet_15
+  - first:
+      213: -3309634108653987048
+    second: Goro_Sprite_Sheet_16
+  - first:
+      213: -7399214566646146991
+    second: Goro_Sprite_Sheet_17
+  - first:
+      213: 2923442800356016501
+    second: Goro_Sprite_Sheet_18
+  - first:
+      213: 616703031530216026
+    second: Goro_Sprite_Sheet_19
+  - first:
+      213: -4391679604049035599
+    second: Goro_Sprite_Sheet_20
+  - first:
+      213: -6918538482979601852
+    second: Goro_Sprite_Sheet_21
+  - first:
+      213: 47712859323791534
+    second: Goro_Sprite_Sheet_22
+  - first:
+      213: -3878919118773375833
+    second: Goro_Sprite_Sheet_23
+  - first:
+      213: 3621493348801488312
+    second: Goro_Sprite_Sheet_24
+  - first:
+      213: 2926554727225688902
+    second: Goro_Sprite_Sheet_25
+  - first:
+      213: -591010850276733087
+    second: Goro_Sprite_Sheet_26
+  - first:
+      213: -6676173103915090547
+    second: Goro_Sprite_Sheet_27
+  - first:
+      213: 3677982554699858927
+    second: Goro_Sprite_Sheet_28
+  - first:
+      213: 2048536582822986804
+    second: Goro_Sprite_Sheet_29
+  - first:
+      213: -3231996587823275828
+    second: Goro_Sprite_Sheet_30
+  - first:
+      213: 844714810878582910
+    second: Goro_Sprite_Sheet_31
+  - first:
+      213: -1694955829349228777
+    second: Goro_Sprite_Sheet_32
+  - first:
+      213: 4538843640903595653
+    second: Goro_Sprite_Sheet_33
+  - first:
+      213: -4478333554771921452
+    second: Goro_Sprite_Sheet_34
+  - first:
+      213: 5993304863714461474
+    second: Goro_Sprite_Sheet_35
+  - first:
+      213: -575797632706176955
+    second: Goro_Sprite_Sheet_36
+  - first:
+      213: 273986035743464523
+    second: Goro_Sprite_Sheet_37
+  - first:
+      213: 5154008097945059879
+    second: Goro_Sprite_Sheet_38
+  - first:
+      213: -8817502768625498722
+    second: Goro_Sprite_Sheet_39
+  - first:
+      213: 5844562143063604591
+    second: Goro_Sprite_Sheet_40
+  - first:
+      213: -7943836554736528825
+    second: Goro_Sprite_Sheet_41
+  - first:
+      213: 4474483886465716126
+    second: Goro_Sprite_Sheet_42
+  - first:
+      213: 9202291165700185985
+    second: Goro_Sprite_Sheet_43
+  - first:
+      213: 1164495060368541557
+    second: Goro_Sprite_Sheet_44
+  - first:
+      213: 40358980119307386
+    second: Goro_Sprite_Sheet_45
+  - first:
+      213: 8535999207136631137
+    second: Goro_Sprite_Sheet_46
+  - first:
+      213: 1732755764172471591
+    second: Goro_Sprite_Sheet_47
+  - first:
+      213: -1922809879661351396
+    second: Goro_Sprite_Sheet_48
+  - first:
+      213: -1899640235818163384
+    second: Goro_Sprite_Sheet_49
+  - first:
+      213: -1291356425602345661
+    second: Goro_Sprite_Sheet_50
+  - first:
+      213: 5524908627854224116
+    second: Goro_Sprite_Sheet_51
+  - first:
+      213: 2363499190125682125
+    second: Goro_Sprite_Sheet_52
+  - first:
+      213: 3245686725508071787
+    second: Goro_Sprite_Sheet_53
+  - first:
+      213: -7074556164137253048
+    second: Goro_Sprite_Sheet_54
+  - first:
+      213: -8891952008706546711
+    second: Goro_Sprite_Sheet_55
+  - first:
+      213: 4559151019561014513
+    second: Goro_Sprite_Sheet_56
+  - first:
+      213: -8292664470672859420
+    second: Goro_Sprite_Sheet_57
+  - first:
+      213: 7540754335821133998
+    second: Goro_Sprite_Sheet_58
+  - first:
+      213: 2024408122799674347
+    second: Goro_Sprite_Sheet_59
+  - first:
+      213: 2183458916884726515
+    second: Goro_Sprite_Sheet_60
+  - first:
+      213: -7949632004996241949
+    second: Goro_Sprite_Sheet_61
+  - first:
+      213: 8706280978835262874
+    second: Goro_Sprite_Sheet_62
+  - first:
+      213: -6487488328550837185
+    second: Goro_Sprite_Sheet_63
+  - first:
+      213: 8310593912203209793
+    second: Goro_Sprite_Sheet_64
+  - first:
+      213: -104933634494555349
+    second: Goro_Sprite_Sheet_65
+  - first:
+      213: -7460339287752568834
+    second: Goro_Sprite_Sheet_66
+  - first:
+      213: -1679484233921087249
+    second: Goro_Sprite_Sheet_67
+  - first:
+      213: -6499622838477261779
+    second: Goro_Sprite_Sheet_68
+  - first:
+      213: 2452144213352063323
+    second: Goro_Sprite_Sheet_69
+  - first:
+      213: -6561769485580820382
+    second: Goro_Sprite_Sheet_70
+  - first:
+      213: 3585462368741093377
+    second: Goro_Sprite_Sheet_71
+  - first:
+      213: -8949496959580628734
+    second: Goro_Sprite_Sheet_72
+  - first:
+      213: 5204879747133242735
+    second: Goro_Sprite_Sheet_73
+  - first:
+      213: 1515427401649350422
+    second: Goro_Sprite_Sheet_74
+  - first:
+      213: 8525696695855229905
+    second: Goro_Sprite_Sheet_75
+  - first:
+      213: 2020181084841840317
+    second: Goro_Sprite_Sheet_76
+  - first:
+      213: 1494968227801549313
+    second: Goro_Sprite_Sheet_77
+  - first:
+      213: -9130547449961269517
+    second: Goro_Sprite_Sheet_78
+  - first:
+      213: 7121077005519081810
+    second: Goro_Sprite_Sheet_79
+  - first:
+      213: 2454774071394999928
+    second: Goro_Sprite_Sheet_80
+  - first:
+      213: -2956175561833107028
+    second: Goro_Sprite_Sheet_81
+  - first:
+      213: -3131144634296879950
+    second: Goro_Sprite_Sheet_82
+  - first:
+      213: -1701889183347517485
+    second: Goro_Sprite_Sheet_83
+  - first:
+      213: -7966280090271012844
+    second: Goro_Sprite_Sheet_84
+  - first:
+      213: -8456190215633268770
+    second: Goro_Sprite_Sheet_85
+  - first:
+      213: -6318427827445787188
+    second: Goro_Sprite_Sheet_86
+  - first:
+      213: 6488448019802697735
+    second: Goro_Sprite_Sheet_87
+  - first:
+      213: -6796974585604775973
+    second: Goro_Sprite_Sheet_88
+  - first:
+      213: 7831482091230038259
+    second: Goro_Sprite_Sheet_89
+  - first:
+      213: -3002530877876320524
+    second: Goro_Sprite_Sheet_90
+  - first:
+      213: -4748086095558770995
+    second: Goro_Sprite_Sheet_91
+  - first:
+      213: -9196186714195268922
+    second: Goro_Sprite_Sheet_92
+  - first:
+      213: 7852944697952205235
+    second: Goro_Sprite_Sheet_93
+  - first:
+      213: -5172046474022732664
+    second: Goro_Sprite_Sheet_94
+  - first:
+      213: 2733174038964312216
+    second: Goro_Sprite_Sheet_95
+  - first:
+      213: -855491445081766292
+    second: Goro_Sprite_Sheet_96
+  - first:
+      213: 6986284748496585034
+    second: Goro_Sprite_Sheet_97
+  - first:
+      213: 2633497284765282613
+    second: Goro_Sprite_Sheet_98
+  - first:
+      213: -2220302256307373262
+    second: Goro_Sprite_Sheet_99
+  - first:
+      213: 3354037157323145180
+    second: Goro_Sprite_Sheet_100
+  - first:
+      213: -8621219356480640947
+    second: Goro_Sprite_Sheet_101
+  - first:
+      213: 7585483622355102646
+    second: Goro_Sprite_Sheet_102
+  - first:
+      213: 3127380972594364628
+    second: Goro_Sprite_Sheet_103
+  - first:
+      213: 5556306638039910173
+    second: Goro_Sprite_Sheet_104
+  - first:
+      213: 3447175593381466322
+    second: Goro_Sprite_Sheet_105
+  - first:
+      213: 3762617552828832027
+    second: Goro_Sprite_Sheet_106
+  - first:
+      213: 233527460222862991
+    second: Goro_Sprite_Sheet_107
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 812
+        width: 60
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611430231803c1390800000000000000
+      internalID: -7846343119338258154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 812
+        width: 71
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3571586b076bbb6d0800000000000000
+      internalID: -2973582533733312685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 812
+        width: 73
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8194da6945f5f9410800000000000000
+      internalID: 1486011218965383448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 812
+        width: 75
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee06c7d50ddbb460800000000000000
+      internalID: 7258638241602342625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 812
+        width: 66
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529fc36c4af3ae670800000000000000
+      internalID: 8568731217958861093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 812
+        width: 62
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d015295d7669a7be0800000000000000
+      internalID: -1478704154928852723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 812
+        width: 61
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6572fc59e6fc3600800000000000000
+      internalID: 449505544977413487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 812
+        width: 77
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bf427dc06df8f20800000000000000
+      internalID: 3427193192089713449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 812
+        width: 67
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cf4679167518620800000000000000
+      internalID: 2774594922100358266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 812
+        width: 64
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6eb15403a4eead30800000000000000
+      internalID: 4444741271064526442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 812
+        width: 88
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5d4aedd22e1ca40800000000000000
+      internalID: 5386835315948574139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 812
+        width: 88
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8043454e6db9c4030800000000000000
+      internalID: 3480327959306581000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 812
+        width: 77
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d181c7404d62e25a0800000000000000
+      internalID: -6544250516472588259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 674
+        width: 59
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444db6419f66cb340800000000000000
+      internalID: 4880889316138275908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 674
+        width: 57
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1f6a311679bce00800000000000000
+      internalID: 1066112180000584111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 674
+        width: 54
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e8bbc192833fdc0800000000000000
+      internalID: -3606477127366767042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 674
+        width: 62
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b99293051d112d0800000000000000
+      internalID: -3309634108653987048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 674
+        width: 64
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158192aed85b05990800000000000000
+      internalID: -7399214566646146991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 674
+        width: 58
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571c464ecb7229820800000000000000
+      internalID: 2923442800356016501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 674
+        width: 58
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ad346c328fe8800800000000000000
+      internalID: 616703031530216026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 674
+        width: 61
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be34511bae9d03c0800000000000000
+      internalID: -4391679604049035599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 674
+        width: 65
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442812dd7e96cff90800000000000000
+      internalID: -6918538482979601852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 674
+        width: 68
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8763fb79289a000800000000000000
+      internalID: 47712859323791534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 674
+        width: 67
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acaa05ec9f4b2ac0800000000000000
+      internalID: -3878919118773375833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 674
+        width: 64
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5a0c36301224230800000000000000
+      internalID: 3621493348801488312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 674
+        width: 62
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6430704d4063d9820800000000000000
+      internalID: 2926554727225688902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 674
+        width: 64
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f8ad253ce4cc7f0800000000000000
+      internalID: -591010850276733087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 674
+        width: 95
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dbf121fe77953a0800000000000000
+      internalID: -6676173103915090547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 674
+        width: 81
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe308fe85a1da0330800000000000000
+      internalID: 3677982554699858927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 674
+        width: 71
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4348e802b2ddd6c10800000000000000
+      internalID: 2048536582822986804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 539
+        width: 86
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0e48b2a34a523d0800000000000000
+      internalID: -3231996587823275828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 539
+        width: 103
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70edee15a709bb00800000000000000
+      internalID: 844714810878582910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 539
+        width: 62
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f59a947ae4a78e0800000000000000
+      internalID: -1694955829349228777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 539
+        width: 71
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586791b5e363dfe30800000000000000
+      internalID: 4538843640903595653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 539
+        width: 102
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d57b12fb53c9d1c0800000000000000
+      internalID: -4478333554771921452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 539
+        width: 71
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2274258050f7c2350800000000000000
+      internalID: 5993304863714461474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 539
+        width: 62
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54899009a1b5208f0800000000000000
+      internalID: -575797632706176955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 539
+        width: 89
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c18ed09d46dc300800000000000000
+      internalID: 273986035743464523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 539
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7228087de07b68740800000000000000
+      internalID: 5154008097945059879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 539
+        width: 91
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95cd06f2ffe1a580800000000000000
+      internalID: -8817502768625498722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 539
+        width: 68
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d7005ad4e0c1150800000000000000
+      internalID: 5844562143063604591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 539
+        width: 63
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7429a21edb2d1c190800000000000000
+      internalID: -7943836554736528825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 413
+        width: 63
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f8ffd436f881e30800000000000000
+      internalID: 4474483886465716126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 413
+        width: 70
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f56433f0b15bf70800000000000000
+      internalID: 9202291165700185985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 413
+        width: 79
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577c6ff661e192010800000000000000
+      internalID: 1164495060368541557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 413
+        width: 79
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74228157426f8000800000000000000
+      internalID: 40358980119307386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 413
+        width: 69
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1691560ad06f57670800000000000000
+      internalID: 8535999207136631137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 413
+        width: 74
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72db20edf2cfb0810800000000000000
+      internalID: 1732755764172471591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 413
+        width: 55
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e6c281a9ec055e0800000000000000
+      internalID: -1922809879661351396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 413
+        width: 65
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843e40f254f13a5e0800000000000000
+      internalID: -1899640235818163384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 413
+        width: 83
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345dd8d3c2e241ee0800000000000000
+      internalID: -1291356425602345661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 413
+        width: 70
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4faedb3ff1b6cac40800000000000000
+      internalID: 5524908627854224116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 413
+        width: 63
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd5d56bdf5dcc020800000000000000
+      internalID: 2363499190125682125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 413
+        width: 61
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b610c1661eefa0d20800000000000000
+      internalID: 3245686725508071787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 297
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8478c0db6a022dd90800000000000000
+      internalID: -7074556164137253048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 297
+        width: 90
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3a93972c0799480800000000000000
+      internalID: -8891952008706546711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 297
+        width: 82
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f45b4662bb554f30800000000000000
+      internalID: 4559151019561014513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 297
+        width: 67
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee9a00b9998aec80800000000000000
+      internalID: -8292664470672859420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 297
+        width: 95
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8fa15ad1426a860800000000000000
+      internalID: 7540754335821133998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 297
+        width: 114
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3d3ef3674281c10800000000000000
+      internalID: 2024408122799674347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 297
+        width: 95
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2c29201543d4e10800000000000000
+      internalID: 2183458916884726515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 297
+        width: 67
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e56f177fcb3da190800000000000000
+      internalID: -7949632004996241949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 297
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d47322c6ce2d870800000000000000
+      internalID: 8706280978835262874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 297
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f341c34ccbfc7f5a0800000000000000
+      internalID: -6487488328550837185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 297
+        width: 59
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c6569b129255370800000000000000
+      internalID: 8310593912203209793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 297
+        width: 64
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b16f65a633b8ef0800000000000000
+      internalID: -104933634494555349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 297
+        width: 62
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff0e91c1fc877890800000000000000
+      internalID: -7460339287752568834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 168
+        width: 86
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8b34fccf541b8e0800000000000000
+      internalID: -1679484233921087249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 168
+        width: 103
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24fb820773bcc5a0800000000000000
+      internalID: -6499622838477261779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 168
+        width: 62
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5121e68b24c70220800000000000000
+      internalID: 2452144213352063323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 168
+        width: 71
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26025f92b69efe4a0800000000000000
+      internalID: -6561769485580820382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 168
+        width: 102
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100f75c170f12c130800000000000000
+      internalID: 3585462368741093377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 168
+        width: 71
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20912c58eeffcc380800000000000000
+      internalID: -8949496959580628734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 168
+        width: 62
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d708aad827b3840800000000000000
+      internalID: 5204879747133242735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 168
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617e3365131e70510800000000000000
+      internalID: 1515427401649350422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 168
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db2c2b49fb515670800000000000000
+      internalID: 8525696695855229905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 213
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe06f74eff190c10800000000000000
+      internalID: 2020181084841840317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 222
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a4b98bea13fb410800000000000000
+      internalID: 1494968227801549313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 168
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6b5305877c94180800000000000000
+      internalID: -9130547449961269517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 168
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251da24bec523d260800000000000000
+      internalID: 7121077005519081810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 216
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e9651130c111220800000000000000
+      internalID: 2454774071394999928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 168
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca13f3f2dfd89f6d0800000000000000
+      internalID: -2956175561833107028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 195
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b43d5c6b80fb84d0800000000000000
+      internalID: -3131144634296879950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 199
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7dd730ecca168e0800000000000000
+      internalID: -1701889183347517485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 168
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418212e0776127190800000000000000
+      internalID: -7966280090271012844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_85
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 168
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf8b0c3dc395aa80800000000000000
+      internalID: -8456190215633268770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_86
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 168
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5962e0e5f6058a0800000000000000
+      internalID: -6318427827445787188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_87
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 168
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7003de3c8199b0a50800000000000000
+      internalID: 6488448019802697735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_88
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 183
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf5ba550ab4ca1a0800000000000000
+      internalID: -6796974585604775973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_89
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 171
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8899018730fac60800000000000000
+      internalID: 7831482091230038259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_90
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 20
+        width: 72
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f64a0d131ed456d0800000000000000
+      internalID: -3002530877876320524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_91
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 20
+        width: 105
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce7f3f3ad86b1eb0800000000000000
+      internalID: -4748086095558770995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 20
+        width: 63
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca693c28e4906080800000000000000
+      internalID: -9196186714195268922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 20
+        width: 58
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b97a3a98934bfc60800000000000000
+      internalID: 7852944697952205235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 20
+        width: 58
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c301272233938b0800000000000000
+      internalID: -5172046474022732664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_95
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 20
+        width: 58
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89899c5be4f2ee520800000000000000
+      internalID: 2733174038964312216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 20
+        width: 59
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c660483301fa024f0800000000000000
+      internalID: -855491445081766292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_97
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 20
+        width: 58
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a414eddb6f444f060800000000000000
+      internalID: 6986284748496585034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 20
+        width: 58
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531f36fd3df0c8420800000000000000
+      internalID: 2633497284765282613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_99
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 20
+        width: 58
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bfcce8cd6ef21e0800000000000000
+      internalID: -2220302256307373262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_100
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 20
+        width: 72
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdff4bd260feb8e20800000000000000
+      internalID: 3354037157323145180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_101
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 20
+        width: 105
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48ef362ca64b5880800000000000000
+      internalID: -8621219356480640947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_102
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 20
+        width: 81
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbe4083a2d054960800000000000000
+      internalID: 7585483622355102646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_103
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 20
+        width: 69
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d08dcccc60b66b20800000000000000
+      internalID: 3127380972594364628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_104
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 20
+        width: 90
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17838fd277fb1d40800000000000000
+      internalID: 5556306638039910173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_105
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 20
+        width: 85
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d016e130f3d6df20800000000000000
+      internalID: 3447175593381466322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_106
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 20
+        width: 65
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b191306aab0873430800000000000000
+      internalID: 3762617552828832027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goro_Sprite_Sheet_107
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 20
+        width: 85
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8602efdcf7ad3300800000000000000
+      internalID: 233527460222862991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

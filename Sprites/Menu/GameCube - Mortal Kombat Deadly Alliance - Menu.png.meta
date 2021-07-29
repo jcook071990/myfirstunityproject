@@ -1,0 +1,1284 @@
+fileFormatVersion: 2
+guid: f43243ac801f447cca885ed2d29e9ae6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2665814118379335191
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_0
+  - first:
+      213: -997703942154051719
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_1
+  - first:
+      213: 5162373676994508378
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_2
+  - first:
+      213: 8855822245374691582
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_3
+  - first:
+      213: -8420441294553867550
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_4
+  - first:
+      213: -6369602218205072879
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_5
+  - first:
+      213: -1312688402756707838
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_6
+  - first:
+      213: -1675961738686263150
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_7
+  - first:
+      213: 6966899350421213565
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_8
+  - first:
+      213: -5241743193975125821
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_9
+  - first:
+      213: 6624826582017626212
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_10
+  - first:
+      213: 468138454897030998
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_11
+  - first:
+      213: 8270706775879229901
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_12
+  - first:
+      213: 7866150814664991878
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_13
+  - first:
+      213: 8667846747217623339
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_14
+  - first:
+      213: 8926438728157829091
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_15
+  - first:
+      213: 6139426289578265039
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_16
+  - first:
+      213: -5900150169355582243
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_17
+  - first:
+      213: 2661016857489588754
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_18
+  - first:
+      213: 1236248914803446694
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_19
+  - first:
+      213: -7208763737382337676
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_20
+  - first:
+      213: -283059167614536751
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_21
+  - first:
+      213: 7406061387808979247
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_22
+  - first:
+      213: 3278856404567085678
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_23
+  - first:
+      213: -5630385947132643256
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_24
+  - first:
+      213: -2488495060215615860
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_25
+  - first:
+      213: 6765319898674704240
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_26
+  - first:
+      213: -5103414943044696273
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_27
+  - first:
+      213: -1719049094331452422
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_28
+  - first:
+      213: 2804705543854692130
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_29
+  - first:
+      213: -5376085090187897271
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_30
+  - first:
+      213: 5537269614084437401
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_31
+  - first:
+      213: -959670575717630515
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_32
+  - first:
+      213: 5741188014847043289
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_33
+  - first:
+      213: -6032671107680669237
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_34
+  - first:
+      213: -8320825359078503122
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_35
+  - first:
+      213: -622691423794558711
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_36
+  - first:
+      213: 636329365631526816
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_37
+  - first:
+      213: 3005093488995590259
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_38
+  - first:
+      213: 7299766756508916943
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_39
+  - first:
+      213: 6149926523092076779
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_40
+  - first:
+      213: -4617872702499669468
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_41
+  - first:
+      213: 1079276078807309055
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_42
+  - first:
+      213: -7771049157103582460
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_43
+  - first:
+      213: 8067684992550393283
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_44
+  - first:
+      213: -7148180705517465862
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_45
+  - first:
+      213: -1677819943630509038
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_46
+  - first:
+      213: 6057550455492406017
+    second: GameCube - Mortal Kombat Deadly Alliance - Menu_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 280
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e157c4fe20210bd0800000000000000
+      internalID: -2665814118379335191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_1
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 389
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f96e8fc817722f0800000000000000
+      internalID: -997703942154051719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_2
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 387
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56b51ff18f64a740800000000000000
+      internalID: 5162373676994508378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 387
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef88f89796336ea70800000000000000
+      internalID: 8855822245374691582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_4
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 389
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea161a8145942b80800000000000000
+      internalID: -8420441294553867550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_5
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 389
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112b857b780aa97a0800000000000000
+      internalID: -6369602218205072879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_6
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 389
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a59e44ad468cde0800000000000000
+      internalID: -1312688402756707838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 387
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2909574ada9cdb8e0800000000000000
+      internalID: -1675961738686263150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_8
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 389
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7191c70c066fa060800000000000000
+      internalID: 6966899350421213565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_9
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 389
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c88a4746569147b0800000000000000
+      internalID: -5241743193975125821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_10
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 389
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460d9bf2dac10fb50800000000000000
+      internalID: 6624826582017626212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_11
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 389
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65776d5c1792f7600800000000000000
+      internalID: 468138454897030998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_12
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 389
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1a2b91ef377c270800000000000000
+      internalID: 8270706775879229901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_13
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 389
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684a1c14d7e2a2d60800000000000000
+      internalID: 7866150814664991878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_14
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 389
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b297e6f31b06a4870800000000000000
+      internalID: 8667846747217623339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_15
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 387
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7132d9ab411eb70800000000000000
+      internalID: 8926438728157829091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_16
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 389
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9c10baeaf933550800000000000000
+      internalID: 6139426289578265039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_17
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 389
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4891a6ea47e1ea0800000000000000
+      internalID: -5900150169355582243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_18
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 389
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2124ef3bbb4dde420800000000000000
+      internalID: 2661016857489588754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_19
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 389
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a352dc86d9082110800000000000000
+      internalID: 1236248914803446694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_20
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 387
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473cb93139355fb90800000000000000
+      internalID: -7208763737382337676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_21
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 389
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3faefcf2f521cf0800000000000000
+      internalID: -283059167614536751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_22
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 389
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29371dd79d97c660800000000000000
+      internalID: 7406061387808979247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_23
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 389
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e625cbf1786d08d20800000000000000
+      internalID: 3278856404567085678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_24
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 389
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848bec8efc9dcd1b0800000000000000
+      internalID: -5630385947132643256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_25
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 389
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ea8866de6177dd0800000000000000
+      internalID: -2488495060215615860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_26
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 387
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f23688a9e33ed50800000000000000
+      internalID: 6765319898674704240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_27
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 377
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27866af5270d29b0800000000000000
+      internalID: -5103414943044696273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_28
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 377
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3bae4e4f5b428e0800000000000000
+      internalID: -1719049094331452422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_29
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 377
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227170905d05ce620800000000000000
+      internalID: 2804705543854692130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_30
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 377
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946931d181f4465b0800000000000000
+      internalID: -5376085090187897271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_31
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 375
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9953115506558dc40800000000000000
+      internalID: 5537269614084437401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_32
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 377
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdb4f822b09ea2f0800000000000000
+      internalID: -959670575717630515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_33
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 377
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d620b5d41cccaf40800000000000000
+      internalID: 5741188014847043289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 377
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc17eeb0795a74ca0800000000000000
+      internalID: -6032671107680669237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_35
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 276
+        width: 640
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d401aeb6d768c80800000000000000
+      internalID: -8320825359078503122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_36
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 316
+        width: 92
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9090b000371cb57f0800000000000000
+      internalID: -622691423794558711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_37
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 277
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7ed96cf22b4d800800000000000000
+      internalID: 636329365631526816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_38
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 283
+        width: 55
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370eb684b9c34b920800000000000000
+      internalID: 3005093488995590259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141
+        width: 301
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc5be0703bfd4560800000000000000
+      internalID: 7299766756508916943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_40
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 141
+        width: 301
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be808abc69de85550800000000000000
+      internalID: 6149926523092076779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_41
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 141
+        width: 301
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ab88d5e350aefb0800000000000000
+      internalID: -4617872702499669468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 301
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffad2eb10eb5afe00800000000000000
+      internalID: 1079276078807309055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_43
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 71
+        width: 301
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4030eb2e6ffa72490800000000000000
+      internalID: -7771049157103582460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_44
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 65
+        width: 301
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c557bc91cc26ff60800000000000000
+      internalID: 8067684992550393283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 301
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe8451658f8ccc90800000000000000
+      internalID: -7148180705517465862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_46
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 7
+        width: 301
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c66d696af27b8e0800000000000000
+      internalID: -1677819943630509038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameCube - Mortal Kombat Deadly Alliance - Menu_47
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 0
+        width: 277
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b61a48b0eb01450800000000000000
+      internalID: 6057550455492406017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

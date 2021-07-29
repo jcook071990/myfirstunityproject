@@ -1,0 +1,6204 @@
+fileFormatVersion: 2
+guid: 62f31a6b265bc43b0ad19389f8f58bcf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2662266684603104820
+    second: Kung Lao_Sprite_0
+  - first:
+      213: -5962694022015606948
+    second: Lao standing
+  - first:
+      213: -8375277432557414203
+    second: Kung Lao_Sprite_2
+  - first:
+      213: -1347551480145487470
+    second: Kung Lao_Sprite_3
+  - first:
+      213: -587571026254448262
+    second: Kung Lao_Sprite_4
+  - first:
+      213: 6230205550186344479
+    second: Kung Lao_Sprite_5
+  - first:
+      213: 4899879800576490108
+    second: Kung Lao_Sprite_6
+  - first:
+      213: 1489589366120520033
+    second: Kung Lao_Sprite_7
+  - first:
+      213: -5244324796075563682
+    second: Kung Lao_Sprite_8
+  - first:
+      213: 465564301490215638
+    second: Kung Lao_Sprite_9
+  - first:
+      213: -227823499602228358
+    second: Kung Lao_Sprite_10
+  - first:
+      213: -1429430607970119032
+    second: Kung Lao_Sprite_11
+  - first:
+      213: -1203509374516504522
+    second: Kung Lao_Sprite_12
+  - first:
+      213: 7399602801011346306
+    second: Kung Lao_Sprite_13
+  - first:
+      213: -8250493871618906884
+    second: Kung Lao_Sprite_14
+  - first:
+      213: -9045124902873908134
+    second: Kung Lao_Sprite_15
+  - first:
+      213: 5798874764732229482
+    second: lao walking
+  - first:
+      213: 4781397053897519418
+    second: lao walking2
+  - first:
+      213: 3176735998247384988
+    second: lao walking3
+  - first:
+      213: -3676272655172487087
+    second: lao walking4
+  - first:
+      213: -6487133622968395919
+    second: lao walking 5
+  - first:
+      213: -362880592403059575
+    second: lao walking 6
+  - first:
+      213: -7839183229278267176
+    second: lao walking 7
+  - first:
+      213: 6942390229193492830
+    second: lao walking 8
+  - first:
+      213: -4903358151721206932
+    second: lao walking 9
+  - first:
+      213: 1042621022098447691
+    second: Kung Lao_Sprite_25
+  - first:
+      213: 856319309367977295
+    second: Kung Lao_Sprite_26
+  - first:
+      213: -732794327130617850
+    second: Kung Lao_Sprite_27
+  - first:
+      213: -9137773927384902196
+    second: Kung Lao_Sprite_28
+  - first:
+      213: -5612400538783059491
+    second: Kung Lao_Sprite_29
+  - first:
+      213: -8801741794593072600
+    second: Kung Lao_Sprite_30
+  - first:
+      213: -5096416263221235060
+    second: Kung Lao_Sprite_31
+  - first:
+      213: -1786815126966483322
+    second: Kung Lao_Sprite_32
+  - first:
+      213: 6988299131443087765
+    second: Kung Lao_Sprite_33
+  - first:
+      213: 550675757959612842
+    second: Kung Lao_Sprite_34
+  - first:
+      213: -7498775555534087088
+    second: Kung Lao_Sprite_35
+  - first:
+      213: 4178043502001621803
+    second: Kung Lao_Sprite_36
+  - first:
+      213: 7198700208192148994
+    second: Kung Lao_Sprite_37
+  - first:
+      213: -4993487152625496100
+    second: Kung Lao_Sprite_38
+  - first:
+      213: 6156241240595308933
+    second: Kung Lao_Sprite_39
+  - first:
+      213: 252905655061372444
+    second: Kung Lao_Sprite_40
+  - first:
+      213: -5874375588416490398
+    second: Kung Lao_Sprite_41
+  - first:
+      213: -4498532469934257481
+    second: Kung Lao_Sprite_42
+  - first:
+      213: 6904384082292344453
+    second: Kung Lao_Sprite_43
+  - first:
+      213: 526736412552438695
+    second: Kung Lao_Sprite_44
+  - first:
+      213: 2685016931078914654
+    second: Kung Lao_Sprite_45
+  - first:
+      213: 3413853561549922471
+    second: Kung Lao_Sprite_46
+  - first:
+      213: 6346271823777709
+    second: Kung Lao_Sprite_47
+  - first:
+      213: 5668198468702929450
+    second: Kung Lao_Sprite_48
+  - first:
+      213: -2737754218160277100
+    second: Kung Lao_Sprite_49
+  - first:
+      213: -7951173168711119982
+    second: Kung Lao_Sprite_50
+  - first:
+      213: 2637331822621470332
+    second: Kung Lao_Sprite_51
+  - first:
+      213: -1546087609464165631
+    second: Kung Lao_Sprite_52
+  - first:
+      213: -9113083888224965241
+    second: Kung Lao_Sprite_53
+  - first:
+      213: -666511940283179714
+    second: Kung Lao_Sprite_54
+  - first:
+      213: 855602495355617511
+    second: Kung Lao_Sprite_55
+  - first:
+      213: -7637973112295936638
+    second: Kung Lao_Sprite_56
+  - first:
+      213: -1450512524532413324
+    second: Kung Lao_Sprite_57
+  - first:
+      213: 1654689049235025108
+    second: Kung Lao_Sprite_58
+  - first:
+      213: -2084127596114202924
+    second: Kung Lao_Sprite_59
+  - first:
+      213: -3080538720198787810
+    second: Kung Lao_Sprite_60
+  - first:
+      213: 1650888916060716521
+    second: Kung Lao_Sprite_61
+  - first:
+      213: 5154125954905007257
+    second: Kung Lao_Sprite_62
+  - first:
+      213: -5719495697235172463
+    second: Kung Lao_Sprite_63
+  - first:
+      213: 8032963929136222458
+    second: Kung Lao_Sprite_64
+  - first:
+      213: -7333655320558100924
+    second: Kung Lao_Sprite_65
+  - first:
+      213: -8191950479070092092
+    second: Kung Lao_Sprite_66
+  - first:
+      213: -5589152884342709509
+    second: Kung Lao_Sprite_67
+  - first:
+      213: 1240830922289061520
+    second: Kung Lao_Sprite_68
+  - first:
+      213: -6263316657797148920
+    second: Kung Lao_Sprite_69
+  - first:
+      213: 1178516461712937571
+    second: Kung Lao_Sprite_70
+  - first:
+      213: -6303998936519727833
+    second: Kung Lao_Sprite_71
+  - first:
+      213: -711277596437792012
+    second: Kung Lao_Sprite_72
+  - first:
+      213: 6135959659402904012
+    second: Kung Lao_Sprite_73
+  - first:
+      213: 4000349820425036419
+    second: Kung Lao_Sprite_74
+  - first:
+      213: -7410901513669117793
+    second: Kung Lao_Sprite_75
+  - first:
+      213: 2009511986087451108
+    second: Kung Lao_Sprite_76
+  - first:
+      213: -6612800228462503193
+    second: Kung Lao_Sprite_77
+  - first:
+      213: -5511744593616717363
+    second: Kung Lao_Sprite_78
+  - first:
+      213: 9195587216898271773
+    second: Kung Lao_Sprite_79
+  - first:
+      213: 3303627219624528142
+    second: Kung Lao_Sprite_80
+  - first:
+      213: -8878226825076691293
+    second: Kung Lao_Sprite_81
+  - first:
+      213: -5504587879213157422
+    second: Kung Lao_Sprite_82
+  - first:
+      213: 2371217152391930505
+    second: Kung Lao_Sprite_83
+  - first:
+      213: 8182418019233280532
+    second: Kung Lao_Sprite_84
+  - first:
+      213: 222572537930811381
+    second: Kung Lao_Sprite_85
+  - first:
+      213: -6636531055400337270
+    second: Kung Lao_Sprite_86
+  - first:
+      213: -4573582977427885501
+    second: Kung Lao_Sprite_87
+  - first:
+      213: -4628798474465305410
+    second: Kung Lao_Sprite_88
+  - first:
+      213: -7991268234081107080
+    second: Kung Lao_Sprite_89
+  - first:
+      213: 2181707091856187605
+    second: Kung Lao_Sprite_90
+  - first:
+      213: 5438107310649388110
+    second: Kung Lao_Sprite_91
+  - first:
+      213: -7304950186864183167
+    second: Kung Lao_Sprite_92
+  - first:
+      213: -2434005525891592236
+    second: Kung Lao_Sprite_93
+  - first:
+      213: -2732226371403755535
+    second: Kung Lao_Sprite_94
+  - first:
+      213: -5405218511976439219
+    second: Kung Lao_Sprite_95
+  - first:
+      213: -2895184760573877007
+    second: Kung Lao_Sprite_96
+  - first:
+      213: -5820749023751156401
+    second: Kung Lao_Sprite_97
+  - first:
+      213: 3621945970304381838
+    second: Kung Lao_Sprite_98
+  - first:
+      213: 7923135400686985606
+    second: Kung Lao_Sprite_99
+  - first:
+      213: -3756062361053553058
+    second: Kung Lao_Sprite_100
+  - first:
+      213: -9082166470688691260
+    second: Kung Lao_Sprite_101
+  - first:
+      213: 6580470159297473949
+    second: Kung Lao_Sprite_102
+  - first:
+      213: -8896855199838227113
+    second: Kung Lao_Sprite_103
+  - first:
+      213: 5657555127661844760
+    second: Kung Lao_Sprite_104
+  - first:
+      213: -7633380831614951992
+    second: Kung Lao_Sprite_105
+  - first:
+      213: -7689856506425612361
+    second: Kung Lao_Sprite_106
+  - first:
+      213: -5877241007127247058
+    second: Kung Lao_Sprite_107
+  - first:
+      213: 5372418870473620393
+    second: Kung Lao_Sprite_108
+  - first:
+      213: 4130119128298346068
+    second: Kung Lao_Sprite_109
+  - first:
+      213: -2467923481426321659
+    second: Kung Lao_Sprite_110
+  - first:
+      213: 9143865583703759658
+    second: Kung Lao_Sprite_111
+  - first:
+      213: 8307011688054544385
+    second: Kung Lao_Sprite_112
+  - first:
+      213: 6979568564588103169
+    second: Kung Lao_Sprite_113
+  - first:
+      213: 7640412383214743736
+    second: Kung Lao_Sprite_114
+  - first:
+      213: -8365401999817354127
+    second: Kung Lao_Sprite_115
+  - first:
+      213: 494609252184052151
+    second: Kung Lao_Sprite_116
+  - first:
+      213: -706124835233130048
+    second: Kung Lao_Sprite_117
+  - first:
+      213: -7929100730930878173
+    second: Kung Lao_Sprite_118
+  - first:
+      213: -489412796340718409
+    second: Kung Lao_Sprite_119
+  - first:
+      213: 6827858540892343398
+    second: Kung Lao_Sprite_120
+  - first:
+      213: 7604807203341480674
+    second: Kung Lao_Sprite_121
+  - first:
+      213: 3734802971738667769
+    second: Kung Lao_Sprite_122
+  - first:
+      213: 8129485868824554346
+    second: Kung Lao_Sprite_123
+  - first:
+      213: 7202877594558405679
+    second: Kung Lao_Sprite_124
+  - first:
+      213: -4208143784880648184
+    second: Kung Lao_Sprite_125
+  - first:
+      213: 3038641126017609186
+    second: Kung Lao_Sprite_126
+  - first:
+      213: 823909362630563604
+    second: Kung Lao_Sprite_127
+  - first:
+      213: 2545788136615416798
+    second: Kung Lao_Sprite_128
+  - first:
+      213: 6308532769257722245
+    second: Kung Lao_Sprite_129
+  - first:
+      213: -5825118316220332525
+    second: Kung Lao_Sprite_130
+  - first:
+      213: 3725091963060015982
+    second: Kung Lao_Sprite_131
+  - first:
+      213: 6213997347512871572
+    second: Kung Lao_Sprite_132
+  - first:
+      213: 8564655541199127935
+    second: Kung Lao_Sprite_133
+  - first:
+      213: -1249889169148642064
+    second: Kung Lao_Sprite_134
+  - first:
+      213: -1595217468157541592
+    second: Kung Lao_Sprite_135
+  - first:
+      213: -769467792870900025
+    second: Kung Lao_Sprite_136
+  - first:
+      213: 3620762916469879119
+    second: Kung Lao_Sprite_137
+  - first:
+      213: -7549119614681835541
+    second: Kung Lao_Sprite_138
+  - first:
+      213: 1946703636136131861
+    second: Kung Lao_Sprite_139
+  - first:
+      213: 3223644381665366213
+    second: Kung Lao_Sprite_140
+  - first:
+      213: -6047760610352268678
+    second: Kung Lao_Sprite_141
+  - first:
+      213: 5455905302167315461
+    second: Kung Lao_Sprite_142
+  - first:
+      213: -4995414434867348317
+    second: Kung Lao_Sprite_143
+  - first:
+      213: -1596942490354395289
+    second: Kung Lao_Sprite_144
+  - first:
+      213: 4489324223954005763
+    second: Kung Lao_Sprite_145
+  - first:
+      213: 8897697410643113566
+    second: Kung Lao_Sprite_146
+  - first:
+      213: -4818827379683159740
+    second: Kung Lao_Sprite_147
+  - first:
+      213: -5736677623983344368
+    second: Kung Lao_Sprite_148
+  - first:
+      213: -2328853626321119904
+    second: Kung Lao_Sprite_149
+  - first:
+      213: 3818499925075847071
+    second: Kung Lao_Sprite_150
+  - first:
+      213: -7148360488005223658
+    second: Kung Lao_Sprite_151
+  - first:
+      213: 3399636360862214534
+    second: Kung Lao_Sprite_152
+  - first:
+      213: -5025275782065084698
+    second: Kung Lao_Sprite_153
+  - first:
+      213: 6404921557024559217
+    second: Kung Lao_Sprite_154
+  - first:
+      213: -8897277327057903174
+    second: Kung Lao_Sprite_155
+  - first:
+      213: -2116547111570843607
+    second: Kung Lao_Sprite_156
+  - first:
+      213: -4321468321427469183
+    second: Kung Lao_Sprite_157
+  - first:
+      213: 3968906894456032553
+    second: Kung Lao_Sprite_158
+  - first:
+      213: 2545619422736344512
+    second: Kung Lao_Sprite_159
+  - first:
+      213: 3372092899614013848
+    second: Kung Lao_Sprite_160
+  - first:
+      213: 7666225838253631584
+    second: Kung Lao_Sprite_161
+  - first:
+      213: 1587533576461816811
+    second: Kung Lao_Sprite_162
+  - first:
+      213: -5792396809539987986
+    second: Kung Lao_Sprite_163
+  - first:
+      213: 4517200232632458707
+    second: Kung Lao_Sprite_164
+  - first:
+      213: 8945802974567212027
+    second: Kung Lao_Sprite_165
+  - first:
+      213: 6554537529799467557
+    second: Kung Lao_Sprite_166
+  - first:
+      213: -8677438787249441580
+    second: Kung Lao_Sprite_167
+  - first:
+      213: -8757472710604440376
+    second: Kung Lao_Sprite_168
+  - first:
+      213: 4826659122960589022
+    second: Kung Lao_Sprite_169
+  - first:
+      213: 6138300889679091203
+    second: Kung Lao_Sprite_170
+  - first:
+      213: 5902950834876172056
+    second: Kung Lao_Sprite_171
+  - first:
+      213: 5724956057978716805
+    second: Kung Lao_Sprite_172
+  - first:
+      213: 6999567521699770920
+    second: Kung Lao_Sprite_173
+  - first:
+      213: -3260455826227495667
+    second: Kung Lao_Sprite_174
+  - first:
+      213: 4078748844595510338
+    second: Kung Lao_Sprite_175
+  - first:
+      213: 8881730524453016142
+    second: Kung Lao_Sprite_176
+  - first:
+      213: 5378556939749238995
+    second: Kung Lao_Sprite_177
+  - first:
+      213: -3268806871001274662
+    second: Kung Lao_Sprite_178
+  - first:
+      213: 707860681312121071
+    second: Kung Lao_Sprite_179
+  - first:
+      213: 1694230640659595066
+    second: Kung Lao_Sprite_180
+  - first:
+      213: 187777179485617308
+    second: Kung Lao_Sprite_181
+  - first:
+      213: -303479244527730017
+    second: Kung Lao_Sprite_182
+  - first:
+      213: 1482061532266901008
+    second: Kung Lao_Sprite_183
+  - first:
+      213: -1989303474290304194
+    second: Kung Lao_Sprite_184
+  - first:
+      213: 1098862424035526329
+    second: Kung Lao_Sprite_185
+  - first:
+      213: -496099210491663471
+    second: Kung Lao_Sprite_186
+  - first:
+      213: -3789123371975337159
+    second: Kung Lao_Sprite_187
+  - first:
+      213: 3459608821383758052
+    second: Kung Lao_Sprite_188
+  - first:
+      213: -7124297286903835689
+    second: Kung Lao_Sprite_189
+  - first:
+      213: 3462928965709597192
+    second: Kung Lao_Sprite_190
+  - first:
+      213: 224072085006950748
+    second: Kung Lao_Sprite_191
+  - first:
+      213: 3341685800486503336
+    second: Kung Lao_Sprite_192
+  - first:
+      213: 7408106625025791952
+    second: Kung Lao_Sprite_193
+  - first:
+      213: -5584210472202533800
+    second: Kung Lao_Sprite_194
+  - first:
+      213: -7299798050100233302
+    second: Kung Lao_Sprite_195
+  - first:
+      213: -6749956672432030589
+    second: Kung Lao_Sprite_196
+  - first:
+      213: -5966587042579963855
+    second: Kung Lao_Sprite_197
+  - first:
+      213: 7099353021897642508
+    second: Kung Lao_Sprite_198
+  - first:
+      213: 6807771153918460150
+    second: Kung Lao_Sprite_199
+  - first:
+      213: 8548137686130530207
+    second: Kung Lao_Sprite_200
+  - first:
+      213: -4347521279889299791
+    second: Kung Lao_Sprite_201
+  - first:
+      213: -3846926290714386851
+    second: Kung Lao_Sprite_202
+  - first:
+      213: 5544349343847275811
+    second: Kung Lao_Sprite_203
+  - first:
+      213: 1742447830509418075
+    second: Kung Lao_Sprite_204
+  - first:
+      213: 343219883232538148
+    second: Kung Lao_Sprite_205
+  - first:
+      213: 7586023052284297347
+    second: Kung Lao_Sprite_206
+  - first:
+      213: -5380472724275413785
+    second: Kung Lao_Sprite_207
+  - first:
+      213: -4728348562670595969
+    second: Kung Lao_Sprite_208
+  - first:
+      213: -517271122784743570
+    second: Kung Lao_Sprite_209
+  - first:
+      213: 4757442055025106975
+    second: Kung Lao_Sprite_210
+  - first:
+      213: 5866999460007024111
+    second: Kung Lao_Sprite_211
+  - first:
+      213: 1883308298389472967
+    second: Kung Lao_Sprite_212
+  - first:
+      213: -6811499675855687393
+    second: Kung Lao_Sprite_213
+  - first:
+      213: -1363708179811995886
+    second: Kung Lao_Sprite_214
+  - first:
+      213: 3690206387384997135
+    second: Kung Lao_Sprite_215
+  - first:
+      213: 7812690311543844623
+    second: Kung Lao_Sprite_216
+  - first:
+      213: 2754296745987789138
+    second: Kung Lao_Sprite_217
+  - first:
+      213: -1334804661587756162
+    second: Kung Lao_Sprite_218
+  - first:
+      213: 4856655590761036017
+    second: Kung Lao_Sprite_219
+  - first:
+      213: -3076525344051079405
+    second: Kung Lao_Sprite_220
+  - first:
+      213: 1879963428442073764
+    second: Kung Lao_Sprite_221
+  - first:
+      213: -2046790071411479537
+    second: Kung Lao_Sprite_222
+  - first:
+      213: 3255858577355960628
+    second: Kung Lao_Sprite_223
+  - first:
+      213: -5288064426170453269
+    second: Kung Lao_Sprite_224
+  - first:
+      213: 1885094362922390182
+    second: Kung Lao_Sprite_225
+  - first:
+      213: 7223717836889976107
+    second: Kung Lao_Sprite_226
+  - first:
+      213: -5849227573104905184
+    second: Kung Lao_Sprite_227
+  - first:
+      213: -1586469368802721076
+    second: Kung Lao_Sprite_228
+  - first:
+      213: 2317601481324641818
+    second: Kung Lao_Sprite_229
+  - first:
+      213: -11037275089865653
+    second: Kung Lao_Sprite_230
+  - first:
+      213: 5468140676833606232
+    second: Kung Lao_Sprite_231
+  - first:
+      213: 1855494853943235500
+    second: Kung Lao_Sprite_232
+  - first:
+      213: -5146790572794694388
+    second: Kung Lao_Sprite_233
+  - first:
+      213: -8354823682601829118
+    second: Kung Lao_Sprite_234
+  - first:
+      213: -8367105914887140039
+    second: Kung Lao_Sprite_235
+  - first:
+      213: 8770655795045682537
+    second: Kung Lao_Sprite_236
+  - first:
+      213: -3946058070271900341
+    second: Kung Lao_Sprite_237
+  - first:
+      213: 8383781701105130100
+    second: Kung Lao_Sprite_238
+  - first:
+      213: -1924651741744464358
+    second: Kung Lao_Sprite_239
+  - first:
+      213: -5378631624280219480
+    second: Kung Lao_Sprite_240
+  - first:
+      213: -1009946425064244889
+    second: Kung Lao_Sprite_241
+  - first:
+      213: -8702034378758882210
+    second: Kung Lao_Sprite_242
+  - first:
+      213: 3274067097832264134
+    second: Kung Lao_Sprite_243
+  - first:
+      213: -7697771376006673873
+    second: Kung Lao_Sprite_244
+  - first:
+      213: 1110524160216117827
+    second: Kung Lao_Sprite_245
+  - first:
+      213: -7285908247375620302
+    second: Kung Lao_Sprite_246
+  - first:
+      213: -4304800103969281856
+    second: Kung Lao_Sprite_247
+  - first:
+      213: 5773098371272491162
+    second: Kung Lao_Sprite_248
+  - first:
+      213: -7063328596541369385
+    second: Kung Lao_Sprite_249
+  - first:
+      213: 4383306781827724
+    second: Kung Lao_Sprite_250
+  - first:
+      213: 7478540383220444024
+    second: Kung Lao_Sprite_251
+  - first:
+      213: -4081092430812552854
+    second: Kung Lao_Sprite_252
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2299
+        width: 41
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc100ee3e8abd0bd0800000000000000
+      internalID: -2662266684603104820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lao standing
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2299
+        width: 41
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f1a61f061404da0800000000000000
+      internalID: -5962694022015606948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2299
+        width: 42
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8d1199c8905cb80800000000000000
+      internalID: -8375277432557414203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 2299
+        width: 44
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299506581198c4de0800000000000000
+      internalID: -1347551480145487470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 2299
+        width: 46
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79bac3c34788d7f0800000000000000
+      internalID: -587571026254448262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 2299
+        width: 45
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10368850f2267650800000000000000
+      internalID: 6230205550186344479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 2299
+        width: 44
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a397bc7bedff340800000000000000
+      internalID: 4899879800576490108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 2299
+        width: 41
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16910d4e2a51ca410800000000000000
+      internalID: 1489589366120520033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 2299
+        width: 45
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55a423326a6837b0800000000000000
+      internalID: -5244324796075563682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 2299
+        width: 43
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da5d6af344067600800000000000000
+      internalID: 465564301490215638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 2299
+        width: 41
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b09b2fbbb96dcf0800000000000000
+      internalID: -227823499602228358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 2299
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882dedc7f64a92ce0800000000000000
+      internalID: -1429430607970119032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 2299
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6385710b9964c4fe0800000000000000
+      internalID: -1203509374516504522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 2299
+        width: 52
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b4441fa8ba0b660800000000000000
+      internalID: 7399602801011346306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 2299
+        width: 55
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf42e98698b508d80800000000000000
+      internalID: -8250493871618906884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 2299
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c392fe2d2497280800000000000000
+      internalID: -9045124902873908134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lao walking
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2172
+        width: 50
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6767d0ffddb97050800000000000000
+      internalID: 5798874764732229482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lao walking2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2172
+        width: 45
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3139af994fea5240800000000000000
+      internalID: 4781397053897519418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lao walking3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2172
+        width: 43
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c973bb03f88061c20800000000000000
+      internalID: 3176735998247384988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lao walking4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2172
+        width: 41
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15836f27f714bfcc0800000000000000
+      internalID: -3676272655172487087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lao walking 5
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 2172
+        width: 43
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177d978175219f5a0800000000000000
+      internalID: -6487133622968395919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lao walking 6
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2172
+        width: 41
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98caee9160ac6faf0800000000000000
+      internalID: -362880592403059575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lao walking 7
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 2172
+        width: 41
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d85ba10360a53390800000000000000
+      internalID: -7839183229278267176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lao walking 8
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 2172
+        width: 43
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59883f8123585060800000000000000
+      internalID: 6942390229193492830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lao walking 9
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 2172
+        width: 44
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b34287db5c3fbb0800000000000000
+      internalID: -4903358151721206932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_25
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 2172
+        width: 41
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d5889ab42287e00800000000000000
+      internalID: 1042621022098447691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_26
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 2172
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45af29ffd142eb00800000000000000
+      internalID: 856319309367977295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_27
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 2172
+        width: 32
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60845f5217794d5f0800000000000000
+      internalID: -732794327130617850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_28
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 2172
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5956ce60b103180800000000000000
+      internalID: -9137773927384902196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_29
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 2172
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1ff9c127fbc12b0800000000000000
+      internalID: -5612400538783059491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_30
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 2172
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a1290b87ee9d580800000000000000
+      internalID: -8801741794593072600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_31
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2172
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82bc2b1964e549b0800000000000000
+      internalID: -5096416263221235060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_32
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 2172
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6864ed5eb15f337e0800000000000000
+      internalID: -1786815126966483322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_33
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2172
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59906d1d80d6bf060800000000000000
+      internalID: 6988299131443087765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_34
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 2172
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa90a9b2fa464a700800000000000000
+      internalID: 550675757959612842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_35
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2053
+        width: 39
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c120acc5ffee790800000000000000
+      internalID: -7498775555534087088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_36
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2053
+        width: 44
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b8fe8cd646bf930800000000000000
+      internalID: 4178043502001621803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2053
+        width: 41
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206d2d1f2bbe6e360800000000000000
+      internalID: 7198700208192148994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_38
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2053
+        width: 43
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfc74d24e193bab0800000000000000
+      internalID: -4993487152625496100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_39
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2053
+        width: 44
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5812b498acc5f6550800000000000000
+      internalID: 6156241240595308933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_40
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2053
+        width: 38
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ede937a50828300800000000000000
+      internalID: 252905655061372444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_41
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1936
+        width: 43
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264753fa6860a7ea0800000000000000
+      internalID: -5874375588416490398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_42
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1936
+        width: 56
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba02078d800291c0800000000000000
+      internalID: -4498532469934257481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_43
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1936
+        width: 69
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58685e9edbc41df50800000000000000
+      internalID: 6904384082292344453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_44
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1936
+        width: 51
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3a378f9f75f4700800000000000000
+      internalID: 526736412552438695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_45
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1936
+        width: 62
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e524ed84ca8134520800000000000000
+      internalID: 2685016931078914654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_46
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1936
+        width: 67
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0a2631ab1706f20800000000000000
+      internalID: 3413853561549922471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_47
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1936
+        width: 44
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf44bd86eb861000800000000000000
+      internalID: 6346271823777709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_48
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1936
+        width: 64
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a228373d97c79ae40800000000000000
+      internalID: 5668198468702929450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_49
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1936
+        width: 75
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499ba383b0b810ad0800000000000000
+      internalID: -2737754218160277100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_50
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1936
+        width: 51
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b4b535122c7a190800000000000000
+      internalID: -7951173168711119982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_51
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1936
+        width: 63
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7eaf2ac15fa99420800000000000000
+      internalID: 2637331822621470332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_52
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1936
+        width: 67
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b614eb2813b8ae0800000000000000
+      internalID: -1546087609464165631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_53
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1936
+        width: 52
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78de302ac72d78180800000000000000
+      internalID: -9113083888224965241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_54
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1936
+        width: 44
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d5dd0fbe210c6f0800000000000000
+      internalID: -666511940283179714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_55
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1823
+        width: 67
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e00c94bfe5bfdb00800000000000000
+      internalID: 855602495355617511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_56
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1823
+        width: 89
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28dad9d0ce7700690800000000000000
+      internalID: -7637973112295936638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_57
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1823
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c8df84b8ebedbe0800000000000000
+      internalID: -1450512524532413324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_58
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1823
+        width: 45
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dce1616ce2a6f610800000000000000
+      internalID: 1654689049235025108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_59
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1823
+        width: 61
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de26075ef0b313e0800000000000000
+      internalID: -2084127596114202924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1823
+        width: 87
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1df6b9fa5abf35d0800000000000000
+      internalID: -3080538720198787810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_61
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1823
+        width: 61
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edbd6de8b229e610800000000000000
+      internalID: 1650888916060716521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_62
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1823
+        width: 67
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994ebbd8f32278740800000000000000
+      internalID: 5154125954905007257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_63
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1823
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1932cef67f440a0b0800000000000000
+      internalID: -5719495697235172463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_64
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1823
+        width: 61
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0d0b11222da7f60800000000000000
+      internalID: 8032963929136222458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_65
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1709
+        width: 42
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e1bf0675f993a90800000000000000
+      internalID: -7333655320558100924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_66
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1709
+        width: 51
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4af6d2178505e80800000000000000
+      internalID: -8191950479070092092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_67
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1709
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2276570175f62b0800000000000000
+      internalID: -5589152884342709509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_68
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1709
+        width: 75
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e1c5d4621583110800000000000000
+      internalID: 1240830922289061520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_69
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1709
+        width: 44
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fc6382faa3419a0800000000000000
+      internalID: -6263316657797148920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_70
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1709
+        width: 51
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36299565a7eea5010800000000000000
+      internalID: 1178516461712937571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_71
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1709
+        width: 62
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7252d440e52b388a0800000000000000
+      internalID: -6303998936519727833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_72
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1709
+        width: 72
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fab1a76bc80126f0800000000000000
+      internalID: -711277596437792012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_73
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1709
+        width: 35
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc146deecce472550800000000000000
+      internalID: 6135959659402904012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_74
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1709
+        width: 45
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3826bb787f8148730800000000000000
+      internalID: 4000349820425036419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_75
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1600
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98f8548650372990800000000000000
+      internalID: -7410901513669117793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_76
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1600
+        width: 48
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9d1a6218833eb10800000000000000
+      internalID: 2009511986087451108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_77
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1600
+        width: 68
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eaded37a3d9a34a0800000000000000
+      internalID: -6612800228462503193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_78
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1600
+        width: 55
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9bbcc9e795283b0800000000000000
+      internalID: -5511744593616717363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_79
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1600
+        width: 63
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a285c7ad94d9f70800000000000000
+      internalID: 9195587216898271773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_80
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1600
+        width: 42
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e090800f377d8dd20800000000000000
+      internalID: 3303627219624528142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_81
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1600
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aea5ffcdb33ac480800000000000000
+      internalID: -8878226825076691293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_82
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1600
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d334980d76cb93b0800000000000000
+      internalID: -5504587879213157422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_83
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1600
+        width: 76
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98262a5df6148e020800000000000000
+      internalID: 2371217152391930505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_84
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1600
+        width: 53
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412b72016d9cd8170800000000000000
+      internalID: 8182418019233280532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_85
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1600
+        width: 63
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f78f144b8cb61300800000000000000
+      internalID: 222572537930811381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_86
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1471
+        width: 43
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80c30eba2e46e3a0800000000000000
+      internalID: -6636531055400337270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_87
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1471
+        width: 67
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34233af838e5780c0800000000000000
+      internalID: -4573582977427885501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_88
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1471
+        width: 70
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc10a8df4433cfb0800000000000000
+      internalID: -4628798474465305410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_89
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1471
+        width: 47
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8738bb271ef491190800000000000000
+      internalID: -7991268234081107080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_90
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1471
+        width: 50
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0e9067a0bf64e10800000000000000
+      internalID: 2181707091856187605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_91
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1471
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c26b569c9087b40800000000000000
+      internalID: 5438107310649388110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_92
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1471
+        width: 67
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1887902228a9f9a90800000000000000
+      internalID: -7304950186864183167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_93
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1471
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfc4efbedca83ed0800000000000000
+      internalID: -2434005525891592236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_94
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1471
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff4686579e251ad0800000000000000
+      internalID: -2732226371403755535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_95
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1471
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d426744c66eccf4b0800000000000000
+      internalID: -5405218511976439219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_96
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1471
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4aed2bccc32d7d0800000000000000
+      internalID: -2895184760573877007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_97
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1471
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d4c904a9b883fa0800000000000000
+      internalID: -5820749023751156401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_98
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1471
+        width: 78
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8376ab8bacb34230800000000000000
+      internalID: 3621945970304381838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_99
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1362
+        width: 61
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68125491ba1a4fd60800000000000000
+      internalID: 7923135400686985606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_100
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1362
+        width: 99
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e103fde29cfdbc0800000000000000
+      internalID: -3756062361053553058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_101
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1362
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb23abd6b9a5f180800000000000000
+      internalID: -9082166470688691260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_102
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1362
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9debfbbeb6825b50800000000000000
+      internalID: 6580470159297473949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_103
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1362
+        width: 78
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7553e835555088480800000000000000
+      internalID: -8896855199838227113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_104
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1246
+        width: 50
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8195971e96ca38e40800000000000000
+      internalID: 5657555127661844760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_105
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1246
+        width: 52
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd9058b398c01690800000000000000
+      internalID: -7633380831614951992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_106
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1246
+        width: 48
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b766c00044284590800000000000000
+      internalID: -7689856506425612361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_107
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1246
+        width: 56
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2742d66178df6ea0800000000000000
+      internalID: -5877241007127247058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_108
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1246
+        width: 52
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab7f279f7aae8a40800000000000000
+      internalID: 5372418870473620393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_109
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1246
+        width: 52
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456d4420771215930800000000000000
+      internalID: 4130119128298346068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_110
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1246
+        width: 52
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f1db45bac20cdd0800000000000000
+      internalID: -2467923481426321659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_111
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1246
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b15965d4985ee70800000000000000
+      internalID: 9143865583703759658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_112
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1246
+        width: 40
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108528b2e1f684370800000000000000
+      internalID: 8307011688054544385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_113
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1246
+        width: 44
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106c1c151a86cd060800000000000000
+      internalID: 6979568564588103169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_114
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1246
+        width: 52
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0b207f492380a60800000000000000
+      internalID: 7640412383214743736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_115
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1246
+        width: 51
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1745b85f33f18eb80800000000000000
+      internalID: -8365401999817354127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_116
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1246
+        width: 45
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b15d0b8e743dd600800000000000000
+      internalID: 494609252184052151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_117
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1246
+        width: 52
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c919dc14375336f0800000000000000
+      internalID: -706124835233130048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_118
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1119
+        width: 61
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329239835ec26f190800000000000000
+      internalID: -7929100730930878173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_119
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1119
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4b49d97a14539f0800000000000000
+      internalID: -489412796340718409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_120
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1119
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c418ada2d61ce50800000000000000
+      internalID: 6827858540892343398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_121
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1119
+        width: 68
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e230840cd3b98960800000000000000
+      internalID: 7604807203341480674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_122
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1119
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa7e84d38fa4d330800000000000000
+      internalID: 3734802971738667769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_123
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1119
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b68d9635cb1d070800000000000000
+      internalID: 8129485868824554346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_124
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1119
+        width: 48
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c16408203c5f360800000000000000
+      internalID: 7202877594558405679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_125
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1119
+        width: 54
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800db6af58ba995c0800000000000000
+      internalID: -4208143784880648184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_126
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1119
+        width: 94
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed2c24310c6b2a20800000000000000
+      internalID: 3038641126017609186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_127
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1119
+        width: 102
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41796b6333d1f6b00800000000000000
+      internalID: 823909362630563604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_128
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1119
+        width: 96
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed39d5472d4745320800000000000000
+      internalID: 2545788136615416798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_129
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1119
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581948d21296c8750800000000000000
+      internalID: 6308532769257722245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_130
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1119
+        width: 81
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316c01311c5092fa0800000000000000
+      internalID: -5825118316220332525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_131
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1119
+        width: 91
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63dadd676f22b330800000000000000
+      internalID: 3725091963060015982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_132
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 994
+        width: 41
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a69b51aad8c3650800000000000000
+      internalID: 6213997347512871572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_133
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 994
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7541c456d4cbd670800000000000000
+      internalID: 8564655541199127935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_134
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 994
+        width: 45
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc79404c6087aee0800000000000000
+      internalID: -1249889169148642064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_135
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 994
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823c8fe1a26acd9e0800000000000000
+      internalID: -1595217468157541592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_136
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 994
+        width: 82
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce73d38e1d4255f0800000000000000
+      internalID: -769467792870900025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_137
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 994
+        width: 90
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41381c50b88f3230800000000000000
+      internalID: 3620762916469879119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_138
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 994
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be794f715b32c3790800000000000000
+      internalID: -7549119614681835541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_139
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 994
+        width: 32
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dfada94a4140b10800000000000000
+      internalID: 1946703636136131861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_140
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 994
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0195b4c7facbc20800000000000000
+      internalID: 3223644381665366213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_141
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 994
+        width: 41
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a7a5d64c9021ca0800000000000000
+      internalID: -6047760610352268678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_142
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 994
+        width: 40
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5046ad737f447bb40800000000000000
+      internalID: 5455905302167315461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_143
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 994
+        width: 40
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac7fdfc909bcaab0800000000000000
+      internalID: -4995414434867348317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_144
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 994
+        width: 39
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767d2b7144586d9e0800000000000000
+      internalID: -1596942490354395289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_145
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 994
+        width: 43
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fa552a8984d4e30800000000000000
+      internalID: 4489324223954005763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_146
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 994
+        width: 39
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56bb4827a8fa7b70800000000000000
+      internalID: 8897697410643113566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_147
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 994
+        width: 40
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4411f088706102db0800000000000000
+      internalID: -4818827379683159740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_148
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 882
+        width: 43
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0157a8f581a3360b0800000000000000
+      internalID: -5736677623983344368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_149
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 882
+        width: 82
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065df3537ff3eafd0800000000000000
+      internalID: -2328853626321119904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_150
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 882
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97600953790ef430800000000000000
+      internalID: 3818499925075847071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_151
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 882
+        width: 81
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bb202820cebcc90800000000000000
+      internalID: -7148360488005223658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_152
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 882
+        width: 82
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689a1b6124fed2f20800000000000000
+      internalID: 3399636360862214534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_153
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 882
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e623af1d42a24ab0800000000000000
+      internalID: -5025275782065084698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_154
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 882
+        width: 82
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170d0bca83ad2e850800000000000000
+      internalID: 6404921557024559217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_155
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 882
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1a39c2965868480800000000000000
+      internalID: -8897277327057903174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_156
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 882
+        width: 80
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928d070bd9380a2e0800000000000000
+      internalID: -2116547111570843607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_157
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 882
+        width: 82
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c4631357f0704c0800000000000000
+      internalID: -4321468321427469183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_158
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 882
+        width: 59
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d86a6dac3641730800000000000000
+      internalID: 3968906894456032553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_159
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 882
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5e881b06bd35320800000000000000
+      internalID: 2545619422736344512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_160
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 882
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8993c1740a41cce20800000000000000
+      internalID: 3372092899614013848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_161
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 760
+        width: 39
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068670158c7e36a60800000000000000
+      internalID: 7666225838253631584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_162
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 760
+        width: 39
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3130e606d080610800000000000000
+      internalID: 1587533576461816811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_163
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 760
+        width: 24
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee553498ac54d9fa0800000000000000
+      internalID: -5792396809539987986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_164
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 760
+        width: 39
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd9e5dada150be30800000000000000
+      internalID: 4517200232632458707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_165
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 760
+        width: 39
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf326b19860e52c70800000000000000
+      internalID: 8945802974567212027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_166
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 760
+        width: 22
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522e9aae72566fa50800000000000000
+      internalID: 6554537529799467557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_167
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 760
+        width: 52
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4fcc5e56b839780800000000000000
+      internalID: -8677438787249441580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_168
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 760
+        width: 61
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccbe3208f4377680800000000000000
+      internalID: -8757472710604440376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_169
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 760
+        width: 31
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0e6fb46ecbbf240800000000000000
+      internalID: 4826659122960589022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_170
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 760
+        width: 31
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30659c51320af2550800000000000000
+      internalID: 6138300889679091203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_171
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 760
+        width: 27
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817c367528e7be150800000000000000
+      internalID: 5902950834876172056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_172
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 760
+        width: 27
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582ca8ed331237f40800000000000000
+      internalID: 5724956057978716805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_173
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 615
+        width: 43
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822b6406395732160800000000000000
+      internalID: 6999567521699770920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_174
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 615
+        width: 56
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d7bdf53b880c2d0800000000000000
+      internalID: -3260455826227495667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_175
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 615
+        width: 95
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c762ac670aa9830800000000000000
+      internalID: 4078748844595510338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_176
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 615
+        width: 98
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4214c4cade324b70800000000000000
+      internalID: 8881730524453016142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_177
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 615
+        width: 73
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d827f53a0974aa40800000000000000
+      internalID: 5378556939749238995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_178
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 615
+        width: 96
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6ec9e387dd2a2d0800000000000000
+      internalID: -3268806871001274662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_179
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 615
+        width: 93
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0331c0a83d2d900800000000000000
+      internalID: 707860681312121071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_180
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 615
+        width: 87
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ff8109acd138710800000000000000
+      internalID: 1694230640659595066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_181
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 615
+        width: 83
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c3a20995e1b9200800000000000000
+      internalID: 187777179485617308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_182
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 493
+        width: 41
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9288392c33d9cbf0800000000000000
+      internalID: -303479244527730017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_183
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 493
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e2a0e7c17519410800000000000000
+      internalID: 1482061532266901008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_184
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 493
+        width: 48
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bd978a7039464e0800000000000000
+      internalID: -1989303474290304194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_185
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 493
+        width: 43
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b689a97d81ff3f00800000000000000
+      internalID: 1098862424035526329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_186
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 493
+        width: 43
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bea4185608d19f0800000000000000
+      internalID: -496099210491663471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_187
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 493
+        width: 41
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b974b6e545a6bc0800000000000000
+      internalID: -3789123371975337159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_188
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 493
+        width: 48
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0036ca4eff20030800000000000000
+      internalID: 3459608821383758052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_189
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 493
+        width: 52
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d351db1d59612d90800000000000000
+      internalID: -7124297286903835689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_190
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 493
+        width: 48
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a08830c8bce0030800000000000000
+      internalID: 3462928965709597192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_191
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 493
+        width: 52
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51abe6cf501c1300800000000000000
+      internalID: 224072085006950748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_192
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 372
+        width: 58
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a307f0d78d006e20800000000000000
+      internalID: 3341685800486503336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_193
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 372
+        width: 43
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d751e2c9b1eec660800000000000000
+      internalID: 7408106625025791952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_194
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 372
+        width: 43
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8540a557926e082b0800000000000000
+      internalID: -5584210472202533800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_195
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 372
+        width: 43
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabbfa37958e1ba90800000000000000
+      internalID: -7299798050100233302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_196
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 372
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c39625b265352a0800000000000000
+      internalID: -6749956672432030589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_197
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 372
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130a29572bc623da0800000000000000
+      internalID: -5966587042579963855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_198
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 372
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c021e4d95f7f58260800000000000000
+      internalID: 7099353021897642508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_199
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 372
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0067d9bcf0a7e50800000000000000
+      internalID: 6807771153918460150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_200
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 372
+        width: 40
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9790f08fe511a670800000000000000
+      internalID: 8548137686130530207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_201
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 372
+        width: 36
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b62fba1e608aa3c0800000000000000
+      internalID: -4347521279889299791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_202
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 372
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e9bd4abe8fc9ac0800000000000000
+      internalID: -3846926290714386851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_203
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 372
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ddfae5a5c71fc40800000000000000
+      internalID: 5544349343847275811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_204
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 372
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56f929e11b6e2810800000000000000
+      internalID: 1742447830509418075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_205
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 372
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e2de35aac53c400800000000000000
+      internalID: 343219883232538148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_206
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 372
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380845906c7f64960800000000000000
+      internalID: 7586023052284297347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_207
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 372
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecb2e17098b455b0800000000000000
+      internalID: -5380472724275413785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_208
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 372
+        width: 43
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f705acbb808816eb0800000000000000
+      internalID: -4728348562670595969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_209
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 372
+        width: 42
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f09d987a842d8f0800000000000000
+      internalID: -517271122784743570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_210
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 254
+        width: 35
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10a641d754d50240800000000000000
+      internalID: 4757442055025106975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_211
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 254
+        width: 44
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe590279ce4cb6150800000000000000
+      internalID: 5866999460007024111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_212
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 254
+        width: 45
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6cc005bead22a10800000000000000
+      internalID: 1883308298389472967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_213
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 254
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11fee83221b871a0800000000000000
+      internalID: -6811499675855687393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_214
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 254
+        width: 72
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fe20db2a2231de0800000000000000
+      internalID: -1363708179811995886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_215
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 254
+        width: 80
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05d5f3682f363330800000000000000
+      internalID: 3690206387384997135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_216
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 254
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fe4b7e1704c6c60800000000000000
+      internalID: 7812690311543844623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_217
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 254
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251dd9e2c4a393620800000000000000
+      internalID: 2754296745987789138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_218
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 254
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bb68d7b32d97de0800000000000000
+      internalID: -1334804661587756162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_219
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 254
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8f9b3378e466340800000000000000
+      internalID: 4856655590761036017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_220
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 254
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317595def7cfd45d0800000000000000
+      internalID: -3076525344051079405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_221
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 254
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aae30717c8f61a10800000000000000
+      internalID: 1879963428442073764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_222
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 254
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ce8bf36475893e0800000000000000
+      internalID: -2046790071411479537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_223
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 254
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431f53630222f2d20800000000000000
+      internalID: 3255858577355960628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_224
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 254
+        width: 70
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2fab8fb650d96b0800000000000000
+      internalID: -5288064426170453269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_225
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 254
+        width: 72
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2941ed553392a10800000000000000
+      internalID: 1885094362922390182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_226
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 254
+        width: 79
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2dea79891dcf3460800000000000000
+      internalID: 7223717836889976107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_227
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 133
+        width: 47
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02479a6438e53dea0800000000000000
+      internalID: -5849227573104905184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_228
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 133
+        width: 44
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2c979b38abbf9e0800000000000000
+      internalID: -1586469368802721076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_229
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 133
+        width: 38
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e3641a446c92020800000000000000
+      internalID: 2317601481324641818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_230
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 133
+        width: 37
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44faf228a9c8dff0800000000000000
+      internalID: -11037275089865653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_231
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 133
+        width: 33
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85af78069fcb2eb40800000000000000
+      internalID: 5468140676833606232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_232
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 133
+        width: 34
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca31ad32dba00c910800000000000000
+      internalID: 1855494853943235500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_233
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 133
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c053e3f2e3de298b0800000000000000
+      internalID: -5146790572794694388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_234
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 133
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d3f7d5024bd0c80800000000000000
+      internalID: -8354823682601829118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_235
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 133
+        width: 113
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d0511508112eb80800000000000000
+      internalID: -8367105914887140039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_236
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 133
+        width: 124
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d4be60af0a7b970800000000000000
+      internalID: 8770655795045682537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_237
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 133
+        width: 70
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45416a9719cc39c0800000000000000
+      internalID: -3946058070271900341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_238
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 133
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a9ac8b90d295470800000000000000
+      internalID: 8383781701105130100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_239
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 133
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1efbf820734a45e0800000000000000
+      internalID: -1924651741744464358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_240
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 133
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a06811f8034b55b0800000000000000
+      internalID: -5378631624280219480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_241
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 14
+        width: 40
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769bedbc313fbf1f0800000000000000
+      internalID: -1009946425064244889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_242
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 14
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cf6de76d92c3780800000000000000
+      internalID: -8702034378758882210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_243
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 14
+        width: 44
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c11611cda2df6d20800000000000000
+      internalID: 3274067097832264134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_244
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 14
+        width: 39
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ac3f2d7b50c2590800000000000000
+      internalID: -7697771376006673873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_245
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 14
+        width: 38
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342bb2407df596f00800000000000000
+      internalID: 1110524160216117827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_246
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 14
+        width: 38
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23756192d0143ea90800000000000000
+      internalID: -7285908247375620302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_247
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 14
+        width: 34
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8a8ddfc174244c0800000000000000
+      internalID: -4304800103969281856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_248
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 14
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a904519a16a2e1050800000000000000
+      internalID: 5773098371272491162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_249
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 14
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d31b4780140afd90800000000000000
+      internalID: -7063328596541369385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_250
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 14
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c822ca328929f0000800000000000000
+      internalID: 4383306781827724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_251
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 14
+        width: 72
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ba4440bdc19c760800000000000000
+      internalID: 7478540383220444024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kung Lao_Sprite_252
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 14
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61e1e58e0c0d57c0800000000000000
+      internalID: -4081092430812552854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
